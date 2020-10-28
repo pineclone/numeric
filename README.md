@@ -1,3 +1,19 @@
+# Numeric.js
+
+The original project [numericjs.com](http://www.numericjs.com) seems to be destoyed. But There is public Github repository [here](https://github.com/sloisel/numeric).
+
+And Cloudfare CDN is still working. The last version maybe 1.2.6 
+
+* https://cdnjs.cloudflare.com/ajax/libs/numeric/1.2.6/numeric.js
+* https://cdnjs.cloudflare.com/ajax/libs/numeric/1.2.6/numeric.min.js
+
+There is no official document. So I forked sloisel's repo and deploy document.html via github-page.
+
+* API : [Reference card for the numeric module](https://pineclone.github.io/numeric/documentation.html) 
+
+
+***
+
 Numeric Javascript by Sébastien Loisel
 ======================================
 
